@@ -1,0 +1,39 @@
+
+header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+    body {
+        font-family: 'Source Sans Pro', sans-serif;
+        background-color: grey;
+        text-align: center;
+        margin-top: 100px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        margin-left: 100px;
+}
+
+.createOrder {
+    border-style: solid;
+    border-width: 4px; 
+    border-color: black;
+    text-align: center;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.toppings {
+    border: 4px solid black;
+    text-align: center;
+    padding: 30px
+    
+}
+#Order {
+    border: 4px solid black;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
